@@ -1,0 +1,51 @@
+[{
+    "employeeID": 1,
+    "name": "Kevin",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 2,
+    "name": "Yuli",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 3,
+    "name": "Dave",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 4,
+    "name": "Justin",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 5,
+    "name": "Eddy",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 6,
+    "name": "Jordan",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 7,
+    "name": "Gio",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 8,
+    "name": "Ben",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 9,
+    "name": "Liam",
+    "salary": 100000,
+    "department": "Engineering"
+},{
+    "employeeID": 10,
+    "name": "John",
+    "salary": 100000,
+    "department": "Engineering"
+}]
